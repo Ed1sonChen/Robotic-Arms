@@ -4,7 +4,7 @@
 
 | Paper Title | Robot Brand | Image |
 |-------------|-------------|-------|
-| ReKep [[link]](https://arxiv.org/pdf/2409.01652)                    | Franka    |  <img src="images/ReKep_singlearm.png" width="200"> |
+| ReKep [[link]](https://arxiv.org/pdf/2409.01652)                    | Franka    |  <img src="images/ReKep_dualarm.png" width="200"> |
 | RoboMIND [[link]](https://x-humanoid-robomind.github.io/)           | Franka    |  <img src="images/Robotmind_Franka.png" width="200"> |
 | TinyVLA [[link]](https://tiny-vla.github.io/)                       | Franka    |  <img src="images/TinyVLA_Franka.png" width="200"> |
 | ObjectVLA [[link]](https://arxiv.org/pdf/2502.19250v2)              | Franka    |  <img src="images/ObjectVLA.png" width="200"> |
