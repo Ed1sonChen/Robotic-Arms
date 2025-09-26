@@ -2,6 +2,9 @@
 
 ## Robotic Arm Setup Comparison
 
+| Robot brand | Type | Price |
+| UR                  | UR5e    | 38,363 USD [[link]]([https://arxiv.org/pdf/2406.09246](https://vention.io/parts/universal-robots-ur5e-collaborative-robot-arm-2445?utm_adgroupid=166917786371&utm_adid=696960133819&utm_device=c&utm_source=google&utm_medium=ppc&utm_campaign=21194967723&utm_term=&hsa_acc=6710393722&hsa_cam=21194967723&hsa_grp=166917786371&hsa_ad=696960133819&hsa_src=g&hsa_tgt=pla-2557207605352&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=21194967723&gbraid=0AAAAADdnWDklI5YcUwBu2FuiRhBU-5Bt1&gclid=CjwKCAjw89jGBhB0EiwA2o1On-iRLX93sPQsxZOWjrgCLCjPnedMKJIFXUWKQ8vagb4MT7Rj4DP5ThoC8UIQAvD_BwE))   |
+
 | Paper Title | Robot Brand | Image |
 |-------------|-------------|-------|
 | OpenVLA [[link]](https://arxiv.org/pdf/2406.09246)                  | Franka    |  <img src="images/OpenVLA.png" width="200"> |
