@@ -2,10 +2,15 @@
 
 ## Robotic Arm Setup Comparison
 
-| Robot brand | Type | Price |
-|-------------|-------------|-------|
-| UR          | UR5e    | 38,363 USD  |
-| Franka      | Franka Research 3 | 30,551.39 USD |
+| Brand       | Type      | DoF | Payload(kg) | Reach(mm) | Repeatability(mm) | ROS/SDK support | Price |
+|-------------|-----------|-----|-----|-----|-----|-----|-----|
+| UR          |   UR5e    |  6  |  5  | 850 | ±0.03 | y | $35,000|
+| Franka      | Research 3 | 7 | 3 | 855 | ±0.1 | y | $31,000|
+| Ufactory    | Xarm 6 | 6 | 5| 700| ±0.1 | y | $10,000|
+| AgileX      | Piper  | 6 | 1.5| 626.75 | ±0.05 | y | $2000|
+| Realman     | RM65-6F | 6 | 5 | 638.5| ±0.05 | y | $25,000|
+
+
 
 
 | Paper Title | Robot Brand | Image |
