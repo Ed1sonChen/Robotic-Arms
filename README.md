@@ -4,11 +4,11 @@
 
 | Brand       | Type      | DoF | Payload(kg) | Reach(mm) | Repeatability(mm) | ROS/SDK support | Price |
 |-------------|-----------|-----|-----|-----|-----|-----|-----|
-| UR          | UR5e       | 6 |  5  | 850    | ±0.03 | y | $35,000|
-| Franka      | Research 3 | 7 |  3  | 855    | ±0.1  | y | $31,000|
 | Ufactory    | Xarm 6     | 6 |  5  | 700    | ±0.1  | y | $10,000|
-| AgileX      | Piper      | 6 | 1.5 | 626.75 | ±0.05 | y | $2000  |
 | Realman     | RM65-6F    | 6 |  5  | 638.5  | ±0.05 | y | $25,000|
+| Franka      | Research 3 | 7 |  3  | 855    | ±0.1  | y | $31,000|
+| UR          | UR5e       | 6 |  5  | 850    | ±0.03 | y | $35,000|
+| AgileX      | Piper      | 6 | 1.5 | 626.75 | ±0.05 | y | $2000  |
 | Kinova      | Gen3       | 6 |  4  | 901    | /     | y | $34,065|
 | Flxiv       | Rizon 4    | 7 |  4  | 876    | ±0.05 | y | $|
 
